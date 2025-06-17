@@ -1,0 +1,1 @@
+#Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior.
