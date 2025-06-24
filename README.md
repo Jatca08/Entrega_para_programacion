@@ -1,2 +1,2 @@
 # Entrega_para_programacion
-jajajaja
+Repositorio para entregar los trabajos y en general
